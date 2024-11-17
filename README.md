@@ -1,4 +1,3 @@
-# React + Vite
 
 # React To-Do List App
 
