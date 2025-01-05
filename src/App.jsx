@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import ExpenseTracker from './expence';
+import ExpenseTracker from './Expence';
 
 function App() {
   const [task, settask] = useState('');
