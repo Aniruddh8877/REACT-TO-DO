@@ -34,7 +34,7 @@ function App() {
   };
   return (
     <>
-      <div className="bg-red-600 h-screen flex justify-center items-center bg-[url('./src/assets/react.svg')">
+      <div className="h-screen flex justify-center items-center bg-[url('./src/assets/react.svg')">
         <div className="bg-cyan-200 h-[45rem] w-[35%] rounded-lg flex justify-center flex-col items-center">
           <h1 className="text-3xl font-bold m-3">TODO list</h1>
           <div className="h-[80%] w-full flex justify-center flex-col items-center gap-4">
